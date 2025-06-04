@@ -24,7 +24,7 @@ class CustomInstallCommand(install):
 
 setup(
   name='myserver',
-  version='0.1.1',
+  version='0.1.2',
   description='my_server_package',
   author='rhaos',
   packages=['myserver'],
